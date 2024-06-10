@@ -5,3 +5,4 @@
  -prgpx
  -prtxt
  -melx
+ -rtgpx2
