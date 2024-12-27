@@ -288,3 +288,7 @@ Single
 PPP
 Dist. (plan):
 Dist. (heihgt):
+Collapse closed points
+Enter the distance threshold in meters
+more
+Take the kind of markers into account?

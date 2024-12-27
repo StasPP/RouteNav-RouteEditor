@@ -3,6 +3,10 @@
 MapFm
 Route Editor
 
+MrkClone
+
+Collapse Close Markers
+
 Stats
 
 Comments
@@ -3724,5 +3728,38 @@ Button1
 OK
 
 Languages
+
+//
+DelClonesForm
+Collapse Markers Pair
+
+Bevel1
+
+New
+New
+
+doAll
+Apply to All
+
+Button1
+OK
+
+Button2
+Cancel
+
+Button3
+Cancel for All
+
+Name1
+1
+
+Name2
+2
+
+Name12
+1+2
+
+CustName
+
 
 //

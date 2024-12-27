@@ -3,6 +3,10 @@
 MapFm
 Route Editor - Редактор маршрутов RouteNav
 
+MrkClone
+
+Схлопнуть близкие маркеры
+
 Stats
 
 Comments
@@ -3760,5 +3764,38 @@ Button1
 OK
 
 Languages
+
+//
+DelClonesForm
+Схлопнуть маркеры
+
+Bevel1
+
+New
+New
+
+doAll
+Применить ко всем совпадениям
+
+Button1
+OK
+
+Button2
+Отмена
+
+Button3
+Отмена для всех
+
+Name1
+1
+
+Name2
+2
+
+Name12
+1+2
+
+CustName
+
 
 //
